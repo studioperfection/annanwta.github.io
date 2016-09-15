@@ -170,17 +170,6 @@ nav ul{
     list-style:none;
     font-size:14px;
     margin: 0 auto;
-    /*width: 750px;*
-    MacBook-Air-Anna:~ annastarodub$ cd Descktop
--bash: cd: Descktop: No such file or directory
-MacBook-Air-Anna:~ annastarodub$ cd Desktop/
-MacBook-Air-Anna:Desktop annastarodub$ cd ann
-MacBook-Air-Anna:ann annastarodub$ http-server
-Starting up http-server, serving ./
-Available on:
-  http://127.0.0.1:8080
-  http://192.168.0.101:8080
-Hit CTRL-C to stop the server/
 }
 
 nav li{
