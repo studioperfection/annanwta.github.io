@@ -154,6 +154,7 @@ article{
 }
 .red{
   background: rgba(255, 0, 0, 0.44);
+   text-decoration: none;
 }
 nav.inverse {
     background: black;
