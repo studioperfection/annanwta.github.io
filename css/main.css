@@ -95,7 +95,7 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
-  background: #f2a41d;
+  background: #ff9800;
 
 }
 .content{
@@ -115,10 +115,9 @@ background: beige;
   text-align: center !important;
 }
 .main_text{
-font-family: 'Bad Script', cursive;
-  background: bisque;
+   font-family: 'Bad Script', cursive;
+   background: rgb(255, 45, 132);
   padding: 20px;
-  /* margin: 128px; */
   text-align: center;
   width: 700px;
   margin: 0 auto;
@@ -137,24 +136,23 @@ article{
   font-size: 20px;
 }
 .yel{
-  background: #ffff99;
+  background: #ff0;
 }
 .blue{
-  background: #ccffff;
+  background: #6dffff;
 }
 .pink{
-  background: rgb(250, 204, 223);
+  background: rgb(255, 144, 190);
   margin-top: 0;
 }
 .green{
-  background:rgb(199, 255, 124);
+  background:rgb(179, 255, 77);
 }
 .orange{
-  background: #ffd47c;;
+  background: #ffb622;
 }
 .red{
-  background: rgba(255, 0, 0, 0.44);
-   text-decoration: none;
+  background: rgb(255, 91, 91);
 }
 nav.inverse {
     background: black;
