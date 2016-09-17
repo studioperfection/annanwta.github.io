@@ -120,6 +120,17 @@ background: beige;
 .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager{
   text-align: center !important;
 }
+.a:before{
+  content: url('../img/butterfly.jpg');
+  
+}
+.a:after{
+  content: url('../img/but2.jpg');
+
+}
+.a{
+  display: inline-flex;
+}
 .main_text, .text2{
   font-family: 'Bad Script', cursive;
   background: rgb(255, 45, 132);
