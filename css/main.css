@@ -226,7 +226,7 @@ nav a{
 }
 
 nav>ul>li:hover{
-    background:white;
+    background:coral;
     opacity: 0.7;
     border-radius: 8px;
 }
