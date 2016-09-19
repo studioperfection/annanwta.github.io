@@ -152,10 +152,7 @@ img{
   background: #e69ef9 !important;
     margin-top: 50px;
 }
-.text3{
-  background: rgb(213, 0, 13) !important;
-    margin-top: 50px;
-}
+
 iframe{
   margin: 20px 175px;
 border: 6px solid #ab9c9c !important;
@@ -302,7 +299,10 @@ nav>ul>li:hover{
   }
 
 
-
+.text3{
+  background: rgb(213, 0, 13) !important;
+    margin-top: 50px;
+}
 
 
 
