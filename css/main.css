@@ -112,6 +112,9 @@ background: beige;
 .content2{
   height: 800px;
 }
+.content3{
+  height: 100%;
+}
 .bxslider{
   margin-left: -40px;
   margin-top: -5px;
