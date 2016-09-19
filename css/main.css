@@ -133,10 +133,9 @@ background: beige;
 .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager{
   text-align: center !important;
 }
-img{
+.image img{
     width: 50% !important;
     margin-left: 20%;
-
   }
 .main_text, .text2{
   font-family: 'Bad Script', cursive;
