@@ -102,6 +102,17 @@ body{
   height: 100%;
 
 }
+.a:before{
+  content: url('../img/butterfly.jpg');
+
+}
+.a:after{
+  content: url('../img/but2.jpg');
+
+}
+.a{
+  display: inline-flex;
+}
 .content{
   width: 960px;
   margin: auto;
@@ -118,22 +129,15 @@ background: beige;
 .bxslider{
   margin-left: -40px;
   margin-top: -5px;
-
 }
 .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager{
   text-align: center !important;
 }
-.a:before{
-  content: url('../img/butterfly.jpg');
-  
-}
-.a:after{
-  content: url('../img/but2.jpg');
+img{
+    width: 50% !important;
+    margin-left: 20%;
 
-}
-.a{
-  display: inline-flex;
-}
+  }
 .main_text, .text2{
   font-family: 'Bad Script', cursive;
   background: rgb(255, 45, 132);
@@ -151,10 +155,6 @@ background: beige;
 .text3{
   background: rgb(213, 0, 13) !important;
     margin-top: 50px;
-}
-img{
-    width: 50% !important;
-    margin-left: 20%;
 }
 iframe{
   margin: 20px 175px;
