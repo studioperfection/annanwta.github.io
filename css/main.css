@@ -117,8 +117,8 @@ body{
   width: 960px;
   margin: auto;
   height: 1405px;
-border: 5px solid white;
-background: beige;
+  border: 5px solid white;
+  background: beige;
 }
 .content2{
   height: 800px;
@@ -133,10 +133,6 @@ background: beige;
 .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager{
   text-align: center !important;
 }
-.image img{
-    width: 50% !important;
-    margin-left: 20%;
-  }
 .main_text, .text2{
   font-family: 'Bad Script', cursive;
   background: rgb(255, 45, 132);
